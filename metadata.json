@@ -1,0 +1,6 @@
+{
+  "name": "National Bakery",
+  "description": "National Bakery in Baranpura, Vadodara — Freshly baked cakes, pastries, breads, cookies, savouries, and desserts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
